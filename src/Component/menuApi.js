@@ -30,7 +30,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "https://st.depositphotos.com/1003814/5052/i/950/depositphotos_50523105-stock-photo-pizza-with-tomatoes.jpg",
+      image: "../images/cholaa.jpg",
       name: "chola",
       category: "lunch",
       price: "50₹",
