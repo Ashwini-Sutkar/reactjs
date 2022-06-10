@@ -30,7 +30,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "../images/cholaa.jpg",
+      image: "images/cholaa.jpg",
       name: "chola",
       category: "lunch",
       price: "50₹",
@@ -39,7 +39,7 @@ const Menu = [
     },
     {
       id: 5,
-      image: "../images/pizza.jpg",
+      image: "images/pizza.jpg",
       name: "pizza",
       category: "dinner",
       price: "80₹",
@@ -48,7 +48,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "../images/non-veg thali.jpg",
+      image: "images/non-veg thali.jpg",
       name: "Non-Veg Thali",
       category: "dinner",
       price: "180₹",
@@ -57,7 +57,7 @@ const Menu = [
     },
     {
       id: 7,
-      image: "../images/sweet.webp",
+      image: "images/sweet.webp",
       name: "Sweets",
       category: "evening",
       price: "60₹",
@@ -66,7 +66,7 @@ const Menu = [
     },
     {
       id: 8,
-      image: "../images/Rajma rice.webp",
+      image: "images/Rajma rice.webp",
       name: "Rajma Rice",
       category: "lunch",
       price: "60₹",
@@ -75,7 +75,7 @@ const Menu = [
     },
     {
       id: 9,
-      image: "../images/samosa.jpg",
+      image: "images/samosa.jpg",
       name: "samaso",
       category: "evening",
       price: "10₹",
@@ -84,7 +84,7 @@ const Menu = [
     },
     {
       id: 10,
-      image: "../images/iceCream.jpg",
+      image: "images/iceCream.jpg",
       name: "Icecream",
       category: "lunch",
       price: "10₹",
@@ -93,7 +93,7 @@ const Menu = [
     },
     {
       id: 11,
-      image: "../images/poha.jpg",
+      image: "images/poha.jpg",
       name: "poha",
       category: "breakfast",
       price: "10₹",
@@ -102,7 +102,7 @@ const Menu = [
     },
     {
       id: 12,
-      image: "../images/egg-curry.jpg",
+      image: "images/egg-curry.jpg",
       name: "Egg-curry",
       category: "dinner",
       price: "50₹",
